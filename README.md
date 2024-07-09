@@ -7,8 +7,7 @@
 </h3>
 
 ## Overview
-
-
+How much do we really save by shopping duty-free at the airport? These were my thoughts during a flight delay while travelling back home from the Chicago O'Hare International Airport. Skincare and cosmetics rank among the highest-selling categories in terms of volume at airport duty-free stores, especially sought after by travelers seeking coveted products from luxury brands. La Mer stands out as a top high-end skincare brand, renowned for its beloved anti-aging cream: Crème de La Mer. To all the skincare enthusiast and La Mer lovers, I will be comparing the product selection, availability and prices from three different purchase locations: Chicago O’Hare Terminal 3 duty-free store, Chicago O’Hare duty-free website and La Mer’s official USA website.
 
 <br>
 
