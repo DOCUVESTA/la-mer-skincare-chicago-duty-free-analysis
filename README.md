@@ -14,28 +14,54 @@
 
 ## Repository Contents
 ### Folder: data
+#### Raw data
 <table style="width:100%">
     <tr>
         <th>File Name</th>
         <th>Data Description</th>
     </tr>
     <tr>
-        <td>laprairie_data.csv</td>
-        <td>source data</td>
+        <td>lamer_bestsellers.json</td>
+        <td>best-seller products on La Mer's website</td>
     </tr>
     <tr>
-        <td>laprairie_data_transformed.csv</td>
-        <td>final cleaned dataframe</td>
+        <td>lamer_face_products.json</td>
+        <td>all face products on La Mer's website</td>
     </tr>
     <tr>
-        <td>laprairie_product_count_regions.csv</td>
-        <td>common product count (us, gb, hk)</td>
+        <td>lamer_official_website.xlsx</td>
+        <td>best-seller and face products with multiple sizes available</td>
     </tr>
     <tr>
-        <td>laprairie_price_display_status.csv</td>
-        <td>brand's regional website's price display status </td>
+        <td>lamer_ord_data.xlsx</td>
+        <td>La Mer product information collected from Chicago O'Hare International Airport duty-free store and website</td>
     </tr>
 </table>
+
+#### Final cleaned data
+<table style="width:100%">
+    <tr>
+        <th>File Name</th>
+        <th>Data Description</th>
+    </tr>
+    <tr>
+        <td>df_dutyfree_ord.csv</td>
+        <td>all products from Chicago O'Hare International Airport Terminal 3 duty-free store</td>
+    </tr>
+    <tr>
+        <td>df_dutyfree_website.csv</td>
+        <td>all products on the Chicago O'Hare International Airport duty-free website</td>
+    </tr>
+    <tr>
+        <td>df_lamer_bestsellers.csv</td>
+        <td>all best-seller products from La Mer's official USA website</td>
+    </tr>
+    <tr>
+        <td>df_lamer_face_products.csv</td>
+        <td>all face products from La Mer's official USA website</td>
+    </tr>
+</table>
+
 
 <br>
 
