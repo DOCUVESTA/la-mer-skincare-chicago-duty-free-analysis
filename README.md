@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/template/blob/4a1687a766b7b86dd99a354a01cf53fba027747a/assets/Screenshot%202024-07-08%20at%207.58.40%20PM.png"/>
+	<img src="https://github.com/DOCUVESTA/template/blob/e246a299d6164512abb1bff2552a6d1284a77838/assets/Screenshot%202024-07-08%20at%208.07.10%20PM.png"/>
 </h3>
 
 ## Overview
