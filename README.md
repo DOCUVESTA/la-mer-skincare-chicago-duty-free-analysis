@@ -53,7 +53,7 @@
 <br>
 
 ### Notion: La Mer Products at the Chicago O’Hare Airport Duty Free public web page
-A document with a brief history on the brand and a report comparing product selection and availability at three different purchase locations:
+A document with a brief history of the brand and a report comparing product selection,availability and price at three different purchase locations:
 1. Chicago O'Hare International Airport Duty-Free Store (1 store - Terminal 3)
 2. Chicago O'Hare International Airport Duty-Free Website (3 stores)
 3. La Mer Official USA Website
