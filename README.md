@@ -87,7 +87,7 @@ A report with a brief history of the brand alongside a comprehensive comparison 
 <summary>Preview</summary>
 <br>
 	
-![Report](https://github.com/DOCUVESTA/template/blob/0657ce7a35718aba99301865fcc53af2f09c214d/assets/Screenshot%202024-07-08%20at%208.36.35%20PM.png)	
+![Report](https://github.com/DOCUVESTA/la-mer-skincare-chicago-duty-free-analysis/blob/921a8007b4461768ad3d625b2ca201ae5a319c2a/assets/preview_report.png)	
 </details>
 
 <p>
