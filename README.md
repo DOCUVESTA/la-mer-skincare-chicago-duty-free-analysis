@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/template/blob/c154bec209954f3ed73433643f85e3b2d52c225a/assets/Screenshot%202024-07-08%20at%208.11.30%20PM.png"/>
+	<img src="https://github.com/DOCUVESTA/la-mer-skincare-chicago-duty-free-analysis/blob/a6747ef141dabd9d03f88a71cbc70df1146517bf/assets/header.png"/>
 </h3>
 
 ## Overview
