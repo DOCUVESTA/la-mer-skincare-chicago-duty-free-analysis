@@ -64,7 +64,7 @@ How much do we really save by shopping duty-free at the airport? These were my t
 
 <br>
 
-### Python Program: lamer_data.py
+### Python Script: lamer_data.py
 - Web scraping program
 - Key libraries: requests, BeautifulSoup, re and json
 
