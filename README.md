@@ -82,7 +82,6 @@ A report with a brief history of the brand alongside a comprehensive comparison 
 1. Chicago O'Hare International Airport Duty-Free Store (1 store - Terminal 3)
 2. Chicago O'Hare International Airport Duty-Free Website (3 stores)
 3. La Mer Official USA Website
-</details>
 <details closed>
 <summary>Preview</summary>
 <br>
